@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antônio Kalil - Offshore Investment Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-content {
+            padding: 20px;
+            background: white;
+            margin-top: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #004080;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Antônio Kalil</h1>
+            <p>Offshore Investment Manager for Abark Investments</p>
+        </div>
+    </header>
+    <div class="container">
+        <div class="main-content">
+            <h2>About Me</h2>
+            <p>As an offshore investment manager for Abark Investments, I specialize in providing comprehensive wealth management, fund management, offshore corporation structuring, and estate planning services. My goal is to help clients achieve their financial objectives with tailored solutions and expert advice.</p>
+            
+            <h2>Our Services</h2>
+            <ul>
+                <li><strong>Wealth Management:</strong> Customized strategies to manage and grow your wealth.</li>
+                <li><strong>Fund Management:</strong> Expert management of investment funds to maximize returns.</li>
+                <li><strong>Offshore Corporation Structuring:</strong> Structuring offshore corporations for tax efficiency and asset protection.</li>
+                <li><strong>Estate Planning:</strong> Planning for the transfer of your estate in the most efficient and effective way.</li>
+            </ul>
+        </div>
+    </div>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Antônio Kalil - All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>
